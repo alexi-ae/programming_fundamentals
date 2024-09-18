@@ -1,0 +1,63 @@
+# Archivos de compilación Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios de compilación
+/bin/
+/target/
+/build/
+
+# Directorios de IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Directorios de Eclipse
+.project
+.classpath
+.settings/
+
+# Archivos de Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+target/
+
+# Archivos de Gradle
+.gradle/
+build/
+gradle-app.setting
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de paquetes y dependencias
+*.lock
+*.log
+node_modules/
+npm-debug.log*
+
+# Archivos de configuración del entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos temporales y de sistema
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
