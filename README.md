@@ -5,6 +5,7 @@ Conceptos fundamentales en programacion con Java, con ejemplos prácticos enfoca
 ## Modules
 ### Basic Syntax
 Simulación de la interacción de un usuario con un sistema bancario.
+
 -- Business case
 El cliente de un banco XYZ, desea realizar una operación bancaria, segun la acción seleccionada, se procesará la operación.
 
@@ -14,9 +15,10 @@ El cliente de un banco XYZ, desea realizar una operación bancaria, segun la acc
 - Uso de sentencias basicas (foreach, if else, case y while)
 
 
+[Ver imagen 1](./assets/basicsyntax/BasicSyntaxApp_1.png)
+[Ver imagen 2 ](./assets/basicsyntax/BasicSyntaxApp_2.png)
+![BasicSyntaxApp_2](./assets/basicsyntax/basicsyntax.gif)
 
-![BasicSyntaxApp_1](./assets/basicsyntax/BasicSyntaxApp_1.png)
-![BasicSyntaxApp_2](./assets/basicsyntax/BasicSyntaxApp_1.png)
 
 
 Markdown is a lightweight markup language based on the formatting conventions
